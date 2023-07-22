@@ -1,0 +1,56 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+section {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background-color: teal;
+}
+.container {
+  padding: 3rem 4rem;
+  border: 5px solid black;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 5rem;
+  background-color: darkgreen;
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.steps {
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+  align-items: center;
+}
+
+.count {
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+  align-items: center;
+}
+
+button {
+  display: inline-block;
+  padding: 0.1em 0.5em;
+  font-size: 2rem;
+  background-color: yellowgreen;
+  cursor: pointer;
+}
+
+h1 {
+  color: white;
+}
+.date {
+  padding: 1rem 2rem;
+  border: 2px solid wheat;
+  color: whitesmoke;
+}
