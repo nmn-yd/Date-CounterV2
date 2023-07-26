@@ -1,8 +1,7 @@
-# React + Vite
+# Data Counter Version 2
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+ScreenShot :
 
-Currently, two official plugins are available:
+![Screenshot 2023-07-26 231429](https://github.com/nmn-yd/Date-CounterV2/assets/97431919/e8350933-199c-4c92-9584-4e8e296b1280)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
